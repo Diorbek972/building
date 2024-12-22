@@ -1,6 +1,14 @@
 .nnav-contact{
     background: #145E76;
 }
+.fiksed{
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    background-color: whitesmoke;
+    box-shadow: 10px 10px 30px 2px rgb(0, 0, 0);
+    z-index: 23443534233423542345546345;
+}
 .bac-color{
     border: 20px solid #265A6A
 }
@@ -9,5 +17,27 @@
 }
 .position{
     position: absolute;
-    top: 450px;
+    top: 530px;
+}
+.margin{
+    margin-top: 200px;
+}
+.nav-contact h2{
+ color: #145E76;
+}
+.icons-one{
+font-size: 40px;
+font-weight: 40px;
+margin-top: 60px;
+}
+.icons-one i{
+    background: #FFA63A;
+    border: 2px solid #FFA800;
+}
+.dijital-nav{padding-bottom: 130px !important;}
+@media(max-width:750px){
+   .position{
+    position: absolute;
+    top: 620px;
+   }
 }

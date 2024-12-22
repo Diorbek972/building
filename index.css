@@ -17,10 +17,13 @@
 }
 .position{
     position: absolute;
-    top: 530px;
+    top: 590px;
 }
 .margin{
     margin-top: 200px;
+}
+.marginn{
+    margin-top: 90px;
 }
 .nav-contact h2{
  color: #145E76;
@@ -35,9 +38,18 @@ margin-top: 60px;
     border: 2px solid #FFA800;
 }
 .dijital-nav{padding-bottom: 130px !important;}
+.icons-two{
+    font-size: 30px;
+}
+.icons-two i{
+    color:  #757575;
+}
 @media(max-width:750px){
    .position{
     position: absolute;
     top: 620px;
+   }
+   .none-none img{
+    display: none !important;
    }
 }

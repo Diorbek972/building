@@ -47,9 +47,19 @@ margin-top: 60px;
 @media(max-width:750px){
    .position{
     position: absolute;
-    top: 620px;
+    top: 500px;
+    right: 45px;
    }
    .none-none img{
     display: none !important;
+   }
+   .with-portfolio__img{
+    width: 80%;
+   }
+   .none--footer{
+    display: none !important;
+   }
+   .d{
+    margin-top: 300px;
    }
 }

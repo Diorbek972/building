@@ -17,7 +17,7 @@
 }
 .position{
     position: absolute;
-    top: 590px;
+    top: 520px;
 }
 .margin{
     margin-top: 200px;
@@ -44,7 +44,7 @@ margin-top: 60px;
 .icons-two i{
     color:  #757575;
 }
-@media(max-width:750px){
+@media(max-width:600px){
    .position{
     position: absolute;
     top: 500px;
@@ -64,6 +64,13 @@ margin-top: 60px;
     display: none !important;
    }
    .d{
-    margin-top: 300px;
+    width: 75%;
+    text-align: center;
+    align-items: center;
    }
-}
+  .JUDA_CHARCHAGAN_ODAM_BOSA_KERE{
+    width: 100% !important; 
+    
+  }
+  
+   }
